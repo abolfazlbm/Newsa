@@ -176,8 +176,8 @@
         "stroke-opacity": 1,
         "fill": "#555555",
         "fill-opacity": 0.5,
-        "height": 125,
-        "color": "#778899"
+        "height": 1,
+        "color": "#531299"
       },
       "geometry": {
         "type": "Polygon",
